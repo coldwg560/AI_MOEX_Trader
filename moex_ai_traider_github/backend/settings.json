@@ -1,0 +1,6 @@
+{
+  "openrouter_token": "sk-your-key-here",
+  "model_name": "deepseek/deepseek-v3.2",
+  "trading_mode": "virtual",
+  "timeframe": "3h"
+}
